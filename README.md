@@ -7,7 +7,7 @@ Olá! Sou Marcelo, um desenvolvedor backend júnior com paixão por tecnologia e
 💼 **Experiência**
 
 - **Desenvolvimento de Projetos:** Trabalhei em projetos de gerenciamento agrícola, onde implementei funcionalidades como controle de safras, controle de despesas, programação de fertilizantes e agendamento de atividades.
-- **Tecnologias:** Tenho experiência com Node.js, Express, MongoDB, EJS, HTML5, CSS3, Bootstrap e Tailwind CSS.
+- **Tecnologias:** Tenho experiência com Node.js, Express, MongoDB, EJS, HTML5, CSS3.
 
 🚀 **Projetos**
 
