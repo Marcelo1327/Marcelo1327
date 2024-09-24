@@ -25,7 +25,7 @@ Olá! Sou Marcelo, um desenvolvedor backend júnior com paixão por tecnologia e
 Sinta-se à vontade para entrar em contato para colaborações ou apenas para conversar sobre tecnologia!
 
 - **Email:** marcelodossantoscosta0@gmail.com
-- **LinkedIn:** (linkedin.com/in/marcelo-fb-developer)
+- **LinkedIn:** linkedin.com/in/marcelo-fb-developer
 
 🎯 **Objetivos**
 
